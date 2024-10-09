@@ -1,0 +1,18 @@
+# Node.js ignore
+node_modules/
+npm-debug.log
+
+# Express.js ignore
+logs/
+public/uploads/
+
+# Environment variables ignore
+.env
+
+# IDE and editor ignore
+.vscode/
+.idea/
+
+# OS ignore
+.DS_Store
+Thumbs.db
